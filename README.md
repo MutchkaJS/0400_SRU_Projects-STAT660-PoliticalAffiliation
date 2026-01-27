@@ -12,6 +12,6 @@ Beyond core political questions, the surveys in these months mix serious and lig
 - [October 2017 data](data/201710-CAH_PulseOfTheNation.csv)
 - [November 2017 data](data/201711-CAH_PulseOfTheNation.csv)
 
-Demographic questionaire items are similar for each month of the study, however social questionaire items differ from month to month.  A full list of the three questionaire items is provided here: -[Pulse of the Nation Questionaire Items](data/Questionaire_PulseOfNation_all.docx).  For Further Information regarding the Pulse Of The Nation study at [PulseOfTheNation.com](https://thepulseofthenation.com/) 
+Demographic questionaire items are similar for each month of the study, however social questionaire items differ from month to month.  A full list of the three questionaire items is provided here: -[Pulse of the Nation Questionaire Items](/Questionaire_PulseOfNation_all.docx).  For Further Information regarding the Pulse Of The Nation study at [PulseOfTheNation.com](https://thepulseofthenation.com/) 
 
 ## DATA CLEANING ##
