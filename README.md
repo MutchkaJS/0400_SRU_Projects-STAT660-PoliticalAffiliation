@@ -9,7 +9,7 @@ The Pulse of the Nation dataset from September, October, and November 2017 captu
 
 Beyond core political questions, the surveys in these months mix serious and lighthearted items, including beliefs about climate change, perceptions of scientists’ honesty, attitudes toward vaccines, expectations about job automation, pop‑culture preferences (such as number of Transformers movies watched), and beliefs in ghosts. This blend of variables makes the dataset especially useful for exploring how demographic traits and unconventional attitudes relate to political affiliation and presidential approval across the early Trump administration, while also enabling comparison of response patterns from September through November 2017 to study short‑term shifts in public sentiment.  
 
-- [September 2017 data](data/pulse_sept_2017.csv)
+- [September 2017 data](data/201709-.csv)
 - [October 2017 data](data/pulse_oct_2017.csv)
 - [November 2017 data](data/pulse_nov_2017.csv)
 
