@@ -26,3 +26,25 @@ The first step to this analysis was create a dataframe containing only variables
 The second step to this analysis was to identify outliers.  WEKA was used to identify and remove outliers using the Interquartile Range filter, and RemoveValues filter respectively. Eighty-two instances were removed, leaving n = 1517 instances for analysis. The .csv for this dataframe is provided here: - [Stage 1: Logistic Regression Data](/logistic_5_nooutliers.csv).  At this point that dataframe was imported into MySQL Workbench and the variables were recoded into more general categories as shown in figure XX. 
 
 
+
+
+<table align="center">
+<tr>
+<td align="center">
+  <b>Income: Raw</b><br>
+  <img src="https://github.com/user-attachments/assets/80f04b29-afe4-4d51-894b-8ce96ad1a48d" 
+       alt="Income Raw"
+       style="border: 3px solid #333; border-radius: 8px; padding: 4px;" 
+       width="350" height="438" />
+</td>
+<td align="center">
+  <b>Income: Log Transformation</b><br>
+  <img src="your-second-image-url" 
+       alt="Income Log Transformation" 
+       style="border: 3px solid #333; border-radius: 8px; padding: 4px;" 
+       width="350" height="438" />
+</td>
+</tr>
+</table>
+
+
