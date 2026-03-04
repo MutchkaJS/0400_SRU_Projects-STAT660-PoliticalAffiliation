@@ -26,7 +26,8 @@ The first step to this analysis was create a dataframe containing only variables
 The second step to this analysis was to identify outliers.  WEKA was used to identify and remove outliers using the Interquartile Range filter, and RemoveValues filter respectively. Eighty-two instances were removed, leaving n = 1517 instances for analysis. The .csv for this dataframe is provided here: - [Stage 1: Logistic Regression Data](/logistic_5_nooutliers.csv).  At this point that dataframe was imported into MySQL Workbench and the variables were recoded into more general categories as shown in figure XX. 
 
 
-
+## STAGE 2: DESCRIPTIVE UNIVARIATE ANALYSIS ##
+Logistic regression makes no assumptions regarding normality for its independent variables.  Nontheless, the distributions are provided here to help better understand the data.  In the event that error estimate appear inflated, we can come back and transform them and compare the AIC measures of the raw & tranformed variables after conducting the logistic regression.
 
 <table align="center">
 <tr>
@@ -38,9 +39,9 @@ The second step to this analysis was to identify outliers.  WEKA was used to ide
        width="350" height="438" />
 </td>
 <td align="center">
-  <b>Income: Log Transformation</b><br>
-  <img src="your-second-image-url" 
-       alt="Income Log Transformation" 
+  <b>Age: Raw</b><br>
+  <img src="https://github.com/user-attachments/assets/a929d327-ef0e-46d7-b6c5-672048261f3e"
+       alt="Age Raw" 
        style="border: 3px solid #333; border-radius: 8px; padding: 4px;" 
        width="350" height="438" />
 </td>
