@@ -1,5 +1,5 @@
 /*This code recode the variables income, gender, age, party, edlevel, and race.
-The script uses the file `logistic_3tables_imputed_nooutliers.arff`*/
+The script uses the file `logistic_5_nooutlier.csv`*/
 
 /*Generating the freq from the original likert values*/
 /*Party*/
@@ -65,7 +65,7 @@ SELECT
 		GROUP BY party_short
         ORDER BY frequency desc;
   
-SELECT
+  SELECT
     CASE
 		WHEN gender = 'female' THEN 1
         WHEN gender = 'male' THEN 0
