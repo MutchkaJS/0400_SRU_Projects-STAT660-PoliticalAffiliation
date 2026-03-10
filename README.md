@@ -1,4 +1,4 @@
-# 0401_Political Affiliation: Understanding Independent Voters #  
+# 0701_Political Affiliation: Understanding Independent Voters #  
 This project explores political party affiliation based on various demographic and socioeconomic factors.  The pipeline includes data ingestion, cleaning, and multiple predictive modeling approaches in R, SQL, EXCEL and WEKA.  As per my perpetual problem, I am redoing the original analysis a good bit and entering it as I go.. i.e. the documentation is not finished yet! This README includes the following information to recreate each part of the analysis.  Any suggestions, comments, discussions, or critiques are welcome!  
 
 ## OVERVIEW ##
